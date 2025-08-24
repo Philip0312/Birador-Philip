@@ -4,3 +4,14 @@ Strengthen my understanding of programming fundamentals
 Improve my skills in Python, SQL, and Flask through practice
 Build useful projects to apply what I’ve learned
 Continue growing in web development and databases
+# 🎯 Goals
+My goal is to strengthen my coding fundamentals, improve in Python, SQL, and Flask, and build projects that will help me grow as a developer.
+# 🛠️ Skills
+- Comfortable with **Python** 🐍 basics  
+- Beginner in **SQL** 🗃️  
+- Beginner in **Flask** 🌐  
+- Familiar with Git & GitHub
+# 📫 Contact
+- Email: jullanbiradorrastafari@gmail.com  
+- LinkedIn: git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
