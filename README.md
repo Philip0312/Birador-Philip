@@ -7,10 +7,10 @@ Continue growing in web development and databases
 # 🎯 Goals
 My goal is to strengthen my coding fundamentals, improve in Python, SQL, and Flask, and build projects that will help me grow as a developer.
 # 🛠️ Skills
-- Comfortable with **Python** 🐍 basics  
-- Beginner in **SQL** 🗃️  
-- Beginner in **Flask** 🌐  
-- Familiar with Git & GitHub
+- Python
+- Html  
+- SQL 
+- (Canva, Figma, Flask
 # 📫 Contact
 - Email: jullanbiradorrastafari@gmail.com  
 - LinkedIn: git clone https://github.com/your-username/your-repo-name.git
